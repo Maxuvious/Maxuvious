@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Maxuvious
+## About Me
+- 👋 Hi, I’m _@Maxuvious_
 - 👀 I’m interested in multimedia programing and automation, but more importatnly, for long term problem solving, I'm learning as much pure mathamatics as I can.
 - 🌱 I’m currently learning rust, linux os development, mathematics, and machine learning.
 - 💞️ I’m looking to collaborate on video/audio editing and automation.
