@@ -1,10 +1,9 @@
 ## About Me
 - 👋 Hi, I’m _@Maxuvious_
-- 👀 I’m interested in multimedia programing and automation, but more importatnly, for long term problem solving, I'm learning as much pure mathamatics as I can.
-- 🌱 I’m currently learning rust, linux os development, mathematics, and machine learning.
-- 💞️ I’m looking to collaborate on video/audio editing and automation.
-- 📫 The best way to reach me is on my email maxuvious@gmail.com (I look to change this to my own service at some point)
-
+- 👀 I'm interested in computational proof
+- 🌱 I’m currently learning functional programming (in rust, Ocaml, and Agda), and generally, mathematics.
+- 💞️ I’m looking to collaborate on anything to further my understanding in my fields of interest.
+- 📫 The best way to reach me is on my email [no contact currently]
 <!---
 Maxuvious/Maxuvious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
